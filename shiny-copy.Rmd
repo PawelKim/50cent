@@ -6,8 +6,23 @@ output: html_document
 Gadir est cinquant cent!
 Pablo, tu eres muy tanto!
 
+<<<<<<< HEAD
 jjj
 That will be a war. And i shall start it.
 jgjgj
+=======
+purelistica test
+That will be a war. And i shall start it.
+
+you do this
+
+jjj
+That will be a war. And i shall start it.
+
+
+jgjgj
+
+That will be a war. And i shall start it.
+>>>>>>> ab193193a899b327df5e58a8bbd17128f9b86e6e
 
 you do this
