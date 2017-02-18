@@ -6,18 +6,8 @@ output: html_document
 Gadir est cinquant cent!
 Pablo, tu eres muy tanto!
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 jjj
-=======
 That will be a war. And i shall start it.
->>>>>>> bdb6d378bb9e66910e1814f2f5d3c7a7036f6669
-
-
 jgjgj
-=======
-That will be a war. And i shall start it.
 
 you do this
->>>>>>> 519980840f34424d5f62abfff48fdde73525dd18
