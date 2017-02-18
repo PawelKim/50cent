@@ -3,7 +3,15 @@ title: "Applications and Practice of Data Science. Lab 03. Interfaces and Shiny"
 output: html_document
 ---
 
-Gadir es cinquant cent!
+Gadir est cinquant cent!
+Pablo, tu eres muy tanto!
 
+<<<<<<< HEAD
 
 jjj
+=======
+That will be a war. And i shall start it.
+>>>>>>> bdb6d378bb9e66910e1814f2f5d3c7a7036f6669
+
+
+jgjgj
