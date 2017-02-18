@@ -3,8 +3,10 @@ title: "Applications and Practice of Data Science. Lab 03. Interfaces and Shiny"
 output: html_document
 ---
 
-Gadir es cinquant cent!
-
+Gadir est cinquant cent!
+Pablo, tu eres muy tanto!
 
 purelistica test
+That will be a war. And i shall start it.
 
+you do this
